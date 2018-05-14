@@ -1,0 +1,8 @@
+﻿  gl_core_4_4.c
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\opengl_core\gl_core_4_4.c(86): warning C4005: 'IntGetProcAddress': macro redefinition
+  c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\opengl_core\gl_core_4_4.c(83): note: see previous definition of 'IntGetProcAddress'
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\opengl_core\gl_core_4_4.c(89): warning C4005: 'IntGetProcAddress': macro redefinition
+  c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\opengl_core\gl_core_4_4.c(86): note: see previous definition of 'IntGetProcAddress'
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\opengl_core\gl_core_4_4.c(93): warning C4005: 'IntGetProcAddress': macro redefinition
+  c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\opengl_core\gl_core_4_4.c(89): note: see previous definition of 'IntGetProcAddress'
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\opengl_core\gl_core_4_4.c(1871): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
