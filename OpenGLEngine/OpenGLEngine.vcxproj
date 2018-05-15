@@ -21,7 +21,15 @@
   <ItemGroup>
     <ClCompile Include="..\dependencies\aieutilities\Gizmos.cpp" />
     <ClCompile Include="..\dependencies\opengl_core\gl_core_4_4.c" />
+    <ClCompile Include="Application.cpp" />
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="FirstPersonCamera.cpp" />
+    <ClCompile Include="FirstPersonCamera.h" />
     <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Application.h" />
+    <ClInclude Include="Camera.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

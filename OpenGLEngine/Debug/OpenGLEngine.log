@@ -37,4 +37,141 @@ c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm
 c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(188): warning C4310: cast truncates constant value
 c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\quaternion.hpp(56): warning C4201: nonstandard extension used: nameless struct/union
   c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\quaternion.hpp(132): note: see reference to class template instantiation 'glm::tquat<T,P>' being compiled
-  OpenGLEngine.vcxproj -> C:\Users\s170998\Desktop\2018-College-Render-Engine-Project\Debug\OpenGLEngine.exe
+c:\users\s170998\desktop\2018-college-render-engine-project\openglengine\camera.h(27): warning C4100: 'deltaTime': unreferenced formal parameter
+c:\users\s170998\desktop\2018-college-render-engine-project\openglengine\camera.h(27): warning C4100: 'window': unreferenced formal parameter
+  FirstPersonCamera.h
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec2.hpp(45): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec2.hpp(206): note: see reference to class template instantiation 'glm::tvec2<T,P>' being compiled
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec2.hpp(46): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec2.hpp(47): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec3.hpp(45): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec3.hpp(227): note: see reference to class template instantiation 'glm::tvec3<T,P>' being compiled
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec3.hpp(46): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec3.hpp(47): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec4.hpp(45): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec4.hpp(272): note: see reference to class template instantiation 'glm::tvec4<T,P>' being compiled
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec4.hpp(46): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec4.hpp(47): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(88): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(89): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(90): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(92): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(93): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(94): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(96): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(97): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(98): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(100): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(101): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(102): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(175): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(176): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(177): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(178): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(180): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(181): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(182): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(183): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(185): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(186): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(187): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(188): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\quaternion.hpp(56): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\quaternion.hpp(132): note: see reference to class template instantiation 'glm::tquat<T,P>' being compiled
+c:\users\s170998\desktop\2018-college-render-engine-project\openglengine\camera.h(27): warning C4100: 'deltaTime': unreferenced formal parameter
+c:\users\s170998\desktop\2018-college-render-engine-project\openglengine\camera.h(27): warning C4100: 'window': unreferenced formal parameter
+  FirstPersonCamera.cpp
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec2.hpp(45): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec2.hpp(206): note: see reference to class template instantiation 'glm::tvec2<T,P>' being compiled
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec2.hpp(46): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec2.hpp(47): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec3.hpp(45): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec3.hpp(227): note: see reference to class template instantiation 'glm::tvec3<T,P>' being compiled
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec3.hpp(46): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec3.hpp(47): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec4.hpp(45): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec4.hpp(272): note: see reference to class template instantiation 'glm::tvec4<T,P>' being compiled
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec4.hpp(46): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec4.hpp(47): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(88): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(89): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(90): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(92): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(93): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(94): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(96): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(97): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(98): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(100): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(101): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(102): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(175): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(176): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(177): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(178): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(180): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(181): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(182): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(183): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(185): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(186): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(187): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(188): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\quaternion.hpp(56): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\quaternion.hpp(132): note: see reference to class template instantiation 'glm::tquat<T,P>' being compiled
+c:\users\s170998\desktop\2018-college-render-engine-project\openglengine\camera.h(27): warning C4100: 'deltaTime': unreferenced formal parameter
+c:\users\s170998\desktop\2018-college-render-engine-project\openglengine\camera.h(27): warning C4100: 'window': unreferenced formal parameter
+c:\users\s170998\desktop\2018-college-render-engine-project\openglengine\firstpersoncamera.cpp(6): error C2723: 'FirstPersonCamera::update': 'override' specifier illegal on function definition
+c:\users\s170998\desktop\2018-college-render-engine-project\openglengine\firstpersoncamera.cpp(9): error C2530: 'forward': references must be initialized
+c:\users\s170998\desktop\2018-college-render-engine-project\openglengine\firstpersoncamera.cpp(9): error C3531: 'forward': a symbol whose type contains 'auto' must have an initializer
+c:\users\s170998\desktop\2018-college-render-engine-project\openglengine\firstpersoncamera.cpp(9): error C2146: syntax error: missing ';' before identifier 'getTransform'
+c:\users\s170998\desktop\2018-college-render-engine-project\openglengine\firstpersoncamera.cpp(11): error C2530: 'up': references must be initialized
+c:\users\s170998\desktop\2018-college-render-engine-project\openglengine\firstpersoncamera.cpp(11): error C3531: 'up': a symbol whose type contains 'auto' must have an initializer
+c:\users\s170998\desktop\2018-college-render-engine-project\openglengine\firstpersoncamera.cpp(11): error C2146: syntax error: missing ';' before identifier 'getTransform'
+c:\users\s170998\desktop\2018-college-render-engine-project\openglengine\firstpersoncamera.cpp(18): error C2143: syntax error: missing ';' before '}'
+c:\users\s170998\desktop\2018-college-render-engine-project\openglengine\firstpersoncamera.cpp(18): error C3867: 'Camera::translate': non-standard syntax; use '&' to create a pointer to member
+  Camera.cpp
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec2.hpp(45): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec2.hpp(206): note: see reference to class template instantiation 'glm::tvec2<T,P>' being compiled
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec2.hpp(46): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec2.hpp(47): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec3.hpp(45): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec3.hpp(227): note: see reference to class template instantiation 'glm::tvec3<T,P>' being compiled
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec3.hpp(46): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec3.hpp(47): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec4.hpp(45): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec4.hpp(272): note: see reference to class template instantiation 'glm::tvec4<T,P>' being compiled
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec4.hpp(46): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\detail\type_vec4.hpp(47): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(88): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(89): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(90): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(92): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(93): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(94): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(96): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(97): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(98): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(100): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(101): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(102): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(175): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(176): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(177): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(178): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(180): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(181): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(182): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(183): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(185): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(186): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(187): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\bitfield.inl(188): warning C4310: cast truncates constant value
+c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\quaternion.hpp(56): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\s170998\desktop\2018-college-render-engine-project\dependencies\glm\glm\gtc\quaternion.hpp(132): note: see reference to class template instantiation 'glm::tquat<T,P>' being compiled
+c:\users\s170998\desktop\2018-college-render-engine-project\openglengine\camera.h(27): warning C4100: 'deltaTime': unreferenced formal parameter
+c:\users\s170998\desktop\2018-college-render-engine-project\openglengine\camera.h(27): warning C4100: 'window': unreferenced formal parameter
+  Application.cpp
+  Gizmos.cpp
+  Generating Code...
+c:\users\s170998\desktop\2018-college-render-engine-project\openglengine\application.h(39): error C4716: 'Application::setIsRunning': must return a value
